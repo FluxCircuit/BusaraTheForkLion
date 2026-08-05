@@ -4223,6 +4223,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: accessory: bandana \u2192 simple_hat, pattern: spots \u2192 gradient"
+    },
+    {
+      "timestamp": "2026-08-05T02:51:38.302433",
+      "dna_hash": "f3cea76ef9d3ec81",
+      "generation": 1,
+      "mutation_count": 29,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "divine",
+        "accessory": "simple_hat",
+        "pattern": "stars",
+        "background": "beach",
+        "special": "shadow"
+      },
+      "story": "Your lion evolved! Changes: pattern: gradient \u2192 stars"
     }
   ]
 }
