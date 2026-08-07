@@ -4255,6 +4255,22 @@
         "special": "shadow"
       },
       "story": "Your lion evolved! Changes: face_expression: divine \u2192 enlightened"
+    },
+    {
+      "timestamp": "2026-08-07T02:51:39.424327",
+      "dna_hash": "43466e47a58142ce",
+      "generation": 1,
+      "mutation_count": 31,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "enlightened",
+        "accessory": "simple_hat",
+        "pattern": "stars",
+        "background": "beach",
+        "special": "shadow"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
