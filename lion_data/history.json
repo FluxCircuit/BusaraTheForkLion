@@ -4623,6 +4623,22 @@
         "special": "glow"
       },
       "story": "Your lion evolved! Changes: accessory: bow \u2192 none"
+    },
+    {
+      "timestamp": "2026-08-30T00:09:41.252574",
+      "dna_hash": "2f5e2856ae6375bb",
+      "generation": 2,
+      "mutation_count": 5,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "neutral",
+        "accessory": "none",
+        "pattern": "swirls",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your lion rested today. No visible changes."
     }
   ]
 }
