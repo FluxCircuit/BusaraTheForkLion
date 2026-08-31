@@ -4639,6 +4639,22 @@
         "special": "glow"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-08-31T00:10:16.427278",
+      "dna_hash": "4f020d5ab0e94c0b",
+      "generation": 2,
+      "mutation_count": 6,
+      "rarity_score": 15.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "neutral",
+        "accessory": "none",
+        "pattern": "swirls",
+        "background": "mountains",
+        "special": "glow"
+      },
+      "story": "Your lion evolved! Changes: body_color: brown \u2192 beige"
     }
   ]
 }
