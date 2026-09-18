@@ -4927,6 +4927,22 @@
         "special": "sparkles"
       },
       "story": "Your lion rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-18T00:20:29.275818",
+      "dna_hash": "aed6589a0e1313dd",
+      "generation": 2,
+      "mutation_count": 20,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "laughing",
+        "accessory": "bow",
+        "pattern": "lightning",
+        "background": "blue_sky",
+        "special": "shadow"
+      },
+      "story": "Your lion evolved! Changes: face_expression: excited \u2192 laughing, pattern: stars \u2192 lightning, special: sparkles \u2192 shadow"
     }
   ]
 }
