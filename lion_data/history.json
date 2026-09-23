@@ -5007,6 +5007,22 @@
         "special": "glow"
       },
       "story": "Your lion evolved! Changes: body_color: beige \u2192 copper, pattern: lightning \u2192 fractals"
+    },
+    {
+      "timestamp": "2026-09-23T04:10:06.511189",
+      "dna_hash": "565952559d47848c",
+      "generation": 2,
+      "mutation_count": 24,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "laughing",
+        "accessory": "bow",
+        "pattern": "fractals",
+        "background": "white",
+        "special": "glow"
+      },
+      "story": "Your lion evolved! Changes: background: blue_sky \u2192 white"
     }
   ]
 }
